@@ -1,4 +1,4 @@
-# DevOps & Cloud Labs 🚀
+# DevOps & Cloud Labs 
 
 A curated collection of my hands-on projects and practice labs in **AWS, Azure, CI/CD, IaC, Containers, and Cloud Data Engineering**.  
 This repository is both a **learning notebook** and a **portfolio showcase** for recruiters and peers.
